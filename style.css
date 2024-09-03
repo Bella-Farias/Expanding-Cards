@@ -66,4 +66,9 @@ body{
     margin: 2.3px;
     flex: 0.3;
   }
+
+    body{
+        height: 90vw;
+        overflow: hidden;
+    }
 }
